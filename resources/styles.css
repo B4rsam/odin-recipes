@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-title {
+    color: #FFFFFF;
+    background-color: orange;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.recipe-list {
+    background-color: silver;
+    color: #000000;
+}
