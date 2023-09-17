@@ -2,15 +2,23 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.page-title {
+.header {
     color: #FFFFFF;
     background-color: orange;
+}
+
+.header.title {
     text-align: center;
     font-weight: bold;
     font-size: 36px;
 }
 
-.recipe-list {
+.content {
     background-color: silver;
     color: #000000;
+}
+
+.section {
+    color: #FFFFFF;
+    background-color: orange;
 }
