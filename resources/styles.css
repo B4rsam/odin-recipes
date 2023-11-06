@@ -5,6 +5,9 @@
 .header {
     color: #FFFFFF;
     background-color: orange;
+    padding: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .header.title {
@@ -16,6 +19,10 @@
 .content {
     background-color: silver;
     color: #000000;
+    margin-block: 0px;
+    margin-bottom: 8px;
+    padding-block: 8px;
+    padding-inline: 64px;
 }
 
 .section {
